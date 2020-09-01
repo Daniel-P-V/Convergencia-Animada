@@ -52,4 +52,4 @@ animacion <- plot1 + geom_point(data = d2, aes(x = kee, y = y, group = Puntos),
 animacion
 
 # Export (Optional)
-anim_save("convergencia.gif", animacion, width = 600, height = 500)
+anim_save("Convergencia.gif", animacion, width = 600, height = 500)
