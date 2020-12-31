@@ -4,3 +4,5 @@ Utilicé el modelo de crecimiento económico de Solow-Swan, sin crecimiento de l
 La convergencia fue graficada para un nivel de capital por trabajador menor al Estado Estacionario,
 por lo cual, la economía debe converger a su derecha (ahorro>depreciación), hasta alcanzar una situación 
 donde la variación del capital sea igual a cero.
+
+![](Convergencia.gif)
